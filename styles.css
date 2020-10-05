@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+ height: 100vh;
+}
+text {
+    font-size: 650px;
+    font-family: 'Oswald', serif;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
